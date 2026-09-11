@@ -40,3 +40,4 @@ https://366862732.github.io/xiaozi-craft-docs.github.io/en/user-guide/feedback.h
 ```
 https://366862732.github.io/xiaozi-craft-docs.github.io/user-guide/feedback.html
 ```
+Use MIT License to Open Score 
